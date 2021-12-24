@@ -4,7 +4,7 @@ Hosting my files on jsDelivr CDN
 #### AppStack
 ##### JS
 ```
-<script src="https://cdn.jsdelivr.net/gh/usunyu/jsdelivr-cdn-files/appstack/js/app.js"></script>
+https://cdn.jsdelivr.net/gh/usunyu/jsdelivr-cdn-files/appstack/js/app.js
 ```
 ##### CSS
 ```

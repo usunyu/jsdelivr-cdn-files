@@ -43,6 +43,9 @@ https://cdn.jsdelivr.net/gh/usunyu/jsdelivr-cdn-files/soft-ui-dashboard-pro/js/p
 ```
 https://cdn.jsdelivr.net/gh/usunyu/jsdelivr-cdn-files/soft-ui-dashboard-pro/js/plugins/chartjs.min.js
 ```
+```
+https://cdn.jsdelivr.net/gh/usunyu/jsdelivr-cdn-files/soft-ui-dashboard-pro/js/soft-ui-dashboard.min.js
+```
 ##### CSS
 ```
 https://cdn.jsdelivr.net/gh/usunyu/jsdelivr-cdn-files/soft-ui-dashboard-pro/css/nucleo-icons.css
